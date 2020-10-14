@@ -1,0 +1,8 @@
+Origin: Fake IOS BY H-P Smartphone
+Label: H-P SMARTPHONE
+Suite: stable
+Version: 1.03
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Fake iOS 14.0.1. Support iPhone 5/5C/5S/6/6P
