@@ -3,7 +3,7 @@ Version: 1.03
 Section: System 
 Maintainer: Lê Hoàng Phương (H-P-SP) 
 Architecture: iphoneos-arm  
-Filename: ./debs/com.hpsmartphone.fakeios_1.03.deb
+Filename: ./debs/com.hpsmartphone.fakeios.1.03.deb
 Size: 1832
 MD5sum: 1a26de87e6cca6a4b4c3f2c86f9d794f
 Description: Fake iOS 14.0.1. Support iPhone 5/5C/5S/6/6P
